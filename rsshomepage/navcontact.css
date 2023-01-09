@@ -1,0 +1,46 @@
+#sign__in{
+    width: 100%;
+    background: #E6EBF1;
+    border: 1px solid #FFFFFF;
+    border-radius: 0px 0px 8px 8px;
+    padding:1.6% 
+ }
+
+ #create__acct{
+    width: 100%;
+    background: #E6EBF1;
+    border: 1px solid #FFFFFF;
+    border-radius: 0px 0px 8px 8px;
+    padding:1.6% 
+ }
+
+ #dashbrd__logo{
+    width: 100%;
+    background: #E6EBF1;
+    border: 1px solid #FFFFFF;
+    border-radius: 0px 0px 8px 8px;
+    padding:1.6%  
+ }
+
+ #signout__logo{
+    width: 100%;
+    background: #E6EBF1;
+    border: 1px solid #FFFFFF;
+    border-radius: 0px 0px 8px 8px;
+    padding:1.6% ;
+
+ }
+
+
+img {
+ margin-right:2%;
+ /* padding:0.1%; */
+ }
+
+ p{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1em;
+    color: #414042;
+ }

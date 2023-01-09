@@ -1,0 +1,31 @@
+*{
+    background: #007DC1;
+    color: white;
+    padding: 1.1%;
+}
+
+p{
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 1.9em;
+color: #FFFFFF;
+}
+
+small{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0.9em;
+    color: #FFFFFF;
+}
+
+#msg__lg{
+    font-weight: 300;
+    font-size: 1.4em;
+    position: relative;
+
+}
+
+
